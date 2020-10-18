@@ -2,4 +2,5 @@ Asztali gép szoftverfejlesztéshez:
 -Processzor: Intel Core i5-9600K (3.7Ghz)
 -Alaplap: ASUS TUF Z390-PLUS GAMING
 -Videókártya: Radeon RX 580 OC (8GB)
--Tápegység:
+-Tápegység: Be Quiet! Pure Power 11 600W
+-Memória: 
