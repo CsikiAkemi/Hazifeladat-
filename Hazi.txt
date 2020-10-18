@@ -1,2 +1,3 @@
 Asztali gép szoftverfejlesztéshez:
--Processzor:
+-Processzor:intel Core i5-4570(3.2GHZ)
+-Alaplap:
