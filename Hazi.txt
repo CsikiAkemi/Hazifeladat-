@@ -1,3 +1,4 @@
 Asztali gép szoftverfejlesztéshez:
--Processzor:intel Core i5-4570(3.2GHZ)
--Alaplap:
+-Processzor: Intel Core i5-9600K (3.7Ghz)
+-Alaplap: ASUS TUF Z390-PLUS GAMING
+-Videókártyát: 
