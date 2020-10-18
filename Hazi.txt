@@ -3,4 +3,5 @@ Asztali gép szoftverfejlesztéshez:
 -Alaplap: ASUS TUF Z390-PLUS GAMING
 -Videókártya: Radeon RX 580 OC (8GB)
 -Tápegység: Be Quiet! Pure Power 11 600W
--Memória: 
+-Memória: 16GB 3200MHz DDR! RAM G.Skill Trident (2x8GB)
+-SSD:
