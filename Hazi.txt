@@ -6,4 +6,5 @@ Asztali gép szoftverfejlesztéshez:
 -Memória: 16GB 3200MHz DDR! RAM G.Skill Trident (2x8GB)
 -SSD: 1TB Samsung 860 EVO SSD
 -HDD:2TB Toshiba 3.5" SATAIII 64 MB cashe winchester
--Processzor hütő:
+-Processzor hütő: Deepcool GammaXX 300
+-Gépház: 
